@@ -1,0 +1,9 @@
+# build outputs
+*.o
+*.out
+*.exe
+bin/
+build/
+*.log
+.vscode/
+mvote
